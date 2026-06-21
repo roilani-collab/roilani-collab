@@ -87,4 +87,6 @@ I'm currently looking for a student position in:
 
 ## Connect With Me
 
-[LinkedIn](PUT-YOUR-LINKEDIN-LINK-HERE)
+## Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/roi-laniado-907348364/)
