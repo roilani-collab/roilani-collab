@@ -43,6 +43,12 @@ Developed a system for managing employees, inventory, and customer data as part 
 - Reduced manual work by centralizing data in one organized system  
 
 ### [Discrete-Event Simulation - Water Park](https://github.com/roilani-collab/water-park-simulation)
+
+Developed a discrete-event simulation model to analyze operational performance and compare alternative scenarios.
+
+- Implemented event-driven programming logic
+- Used statistical distributions and sampling methods
+- Analyzed system performance and supported decision-making through scenario comparison
 Developed a discrete-event simulation model to analyze operational performance and compare alternative scenarios.
 
 - Implemented event-driven programming logic  
