@@ -34,7 +34,7 @@ What I like most is taking a real operational problem, breaking it down, and tur
 
 ## Featured Projects
 
-### Information System Development - Street Games
+### [Information System Development - Street Games](https://github.com/roilani-collab/street-games-information-system)
 
 Developed a system for managing employees, inventory, and customer data as part of a team-based academic project.
 
