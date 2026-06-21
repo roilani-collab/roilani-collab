@@ -54,6 +54,22 @@ Developed a discrete-event simulation model to analyze operational performance a
 - Used statistical distributions and sampling methods  
 - Analyzed system performance and supported decision-making through scenario comparison  
 
+### [IIOT Sync vs Async Simulator](https://github.com/roilani-collab/iiot-sync-vs-async-simulator)
+
+A visual IIOT network simulator built with Python and Tkinter, comparing synchronous round-based message passing with asynchronous message-driven execution.
+
+* Built a visual simulator for IIOT-style network communication
+* Compared synchronous and asynchronous message-passing behavior
+* Implemented routing logic using a distance-vector style algorithm
+
+### [IIOT DCOP Experiments](https://github.com/roilani-collab/iiot-dcop-experiments)
+
+Distributed Constraint Optimization Problem experiments comparing DSA-C, MGM, MGM-2, and damped min-sum across synchronous and asynchronous simulators.
+
+* Compared multiple distributed optimization algorithms
+* Generated reproducible problem instances for experiment analysis
+* Analyzed solution quality, convergence behavior, and solution-cost performance
+
 ---
 
 ## Currently Looking For
