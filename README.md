@@ -10,23 +10,23 @@ What I like most is taking a real operational problem, breaking it down, and tur
 
 ## About Me
 
-- 🎓 Third-year Industrial Engineering and Management student at Ben-Gurion University  
-- 🧠 Specializing in Intelligent Systems  
-- 📊 Interested in Data Analysis, Information Systems, Simulation, Optimization, and AI  
-- 🛠️ Building projects with Python, SQL, C#, Excel, and data-driven tools  
-- 📈 I enjoy combining analytical thinking, technology, and practical problem solving  
-- 🪖 Active combat reservist with operational experience in high-pressure environments  
-- 🎯 Currently looking for a student position in data analysis, operations, information systems, optimization, or related technology roles  
+* 🎓 Third-year Industrial Engineering and Management student at Ben-Gurion University
+* 🧠 Specializing in Intelligent Systems
+* 📊 Interested in Data Analysis, Information Systems, Simulation, Optimization, and AI
+* 🛠️ Building projects with Python, SQL, C#, Excel, and data-driven tools
+* 📈 I enjoy combining analytical thinking, technology, and practical problem solving
+* 🪖 Active combat reservist with operational experience in high-pressure environments
+* 🎯 Currently looking for a student position in data analysis, operations, information systems, optimization, or related technology roles
 
 ---
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
-![Excel](https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-68217A?style=for-the-badge\&logo=csharp\&logoColor=white)
+![Excel](https://img.shields.io/badge/EXCEL-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+![Power BI](https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 ![Simulation](https://img.shields.io/badge/SIMULATION-555555?style=for-the-badge)
 ![Data Analysis](https://img.shields.io/badge/DATA%20ANALYSIS-2C3E50?style=for-the-badge)
 
@@ -35,24 +35,28 @@ What I like most is taking a real operational problem, breaking it down, and tur
 ## Featured Projects
 
 ### [Information System Development - Street Games](https://github.com/roilani-collab/street-games-information-system)
+
 Developed a system for managing employees, inventory, and customer data as part of a team-based academic project.
 
-- Built database-driven functionality using SQL and C#  
-- Designed structured processes for managing operational information  
-- Reduced manual work by centralizing data in one organized system  
+* Built database-driven functionality using SQL and C#
+* Designed structured processes for managing operational information
+* Reduced manual work by centralizing data in one organized system
+
+### [Owayo Database Reconstruction & SQL Analytics Project](https://github.com/roilani-collab/owayo-database-sql-bi)
+
+Developed a database systems and business intelligence project based on the Owayo custom sports apparel platform.
+
+* Designed a relational database schema for an e-commerce business process
+* Implemented SQL logic using constraints, views, functions, triggers, and stored procedures
+* Built analytical SQL queries and Power BI dashboards to support business insights
 
 ### [Discrete-Event Simulation - Water Park](https://github.com/roilani-collab/water-park-simulation)
 
 Developed a discrete-event simulation model to analyze operational performance and compare alternative scenarios.
 
-- Implemented event-driven programming logic
-- Used statistical distributions and sampling methods
-- Analyzed system performance and supported decision-making through scenario comparison
-Developed a discrete-event simulation model to analyze operational performance and compare alternative scenarios.
-
-- Implemented event-driven programming logic  
-- Used statistical distributions and sampling methods  
-- Analyzed system performance and supported decision-making through scenario comparison  
+* Implemented event-driven programming logic
+* Used statistical distributions and sampling methods
+* Analyzed system performance and supported decision-making through scenario comparison
 
 ### [IIOT Sync vs Async Simulator](https://github.com/roilani-collab/iiot-sync-vs-async-simulator)
 
@@ -76,17 +80,15 @@ Distributed Constraint Optimization Problem experiments comparing DSA-C, MGM, MG
 
 I'm currently looking for a student position in:
 
-- Data Analysis  
-- Information Systems  
-- Operations / Process Improvement  
-- Simulation  
-- Optimization  
-- AI / Intelligent Systems  
+* Data Analysis
+* Information Systems
+* Operations / Process Improvement
+* Simulation
+* Optimization
+* AI / Intelligent Systems
 
 ---
 
 ## Connect With Me
 
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Roi%20Laniado-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/roi-laniado-907348364/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Roi%20Laniado-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/roi-laniado-907348364/)
