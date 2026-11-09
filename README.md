@@ -29,6 +29,12 @@ What I like most is taking a real operational problem, breaking it down, and tur
 
 ## Featured Projects
 
+### [Blind Spots in Modern Language Models](https://github.com/yoavne26-hub/llm-diffing-finals-project)
+
+My final-year project at Ben-Gurion University explores how prompts can reveal differences between language models. We have reviewed related work, run an initial model demo, and presented the proposed approach at our first seminar.
+
+*Private repository. Access is required.*
+
 ### [API Incident Investigator](https://github.com/roilani-collab/api-incident-investigator)
 
 Built a Python security analysis tool that examines synthetic API request and response events and produces structured incident assessments based on observed evidence.
