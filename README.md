@@ -31,7 +31,7 @@ What I like most is taking a real operational problem, breaking it down, and tur
 
 ### [Blind Spots in Modern Language Models](https://github.com/yoavne26-hub/llm-diffing-finals-project)
 
-My final-year project at Ben-Gurion University explores how prompts can reveal differences between language models. We have reviewed related work, run an initial model demo, and presented the proposed approach at our first seminar.
+My final-year project at Ben-Gurion University explores how prompts can reveal differences between language models. We have reviewed related work, run an initial model demo, and prepared a presentation for our first seminar.
 
 *Private repository. Access is required.*
 
